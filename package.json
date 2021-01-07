@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/alestor123/RGB-TEXT/issues"
   },
-  "homepage": "https://github.com/alestor123/RGB-TEXT#readme"
+  "homepage": "https://github.com/alestor123/RGB-TEXT#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "log-update": "^4.0.0"
+  }
 }
