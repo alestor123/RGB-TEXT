@@ -1,0 +1,19 @@
+{
+  "name": "rgb-text",
+  "version": "1.0.0",
+  "description": "This is a simple code logging rgb text ",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alestor123/RGB-TEXT.git"
+  },
+  "author": "Alestor Aldous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alestor123/RGB-TEXT/issues"
+  },
+  "homepage": "https://github.com/alestor123/RGB-TEXT#readme"
+}
